@@ -1,0 +1,71 @@
+
+/* ELEMENTS SECTION */
+body {
+  font-family: 'Times New Roman';
+  font-size:140%;
+  background-color: dimgray;
+  border: 10px solid dimgray;
+  border-radius: 12px;
+  outline: 10px outset peru;
+  color: aliceblue;
+}
+
+header {
+  text-align: center;
+  background-color: darkslategray;
+  color: honeydew;
+}
+
+footer {
+  background-color: gainsboro;
+  text-align: center;
+  color: mediumvioletred;
+  outline: 10px solid gainsboro;
+  border-radius: 10px;
+}
+
+/* ID SECTION */
+
+#Headshot {
+  width: 170px;
+  height: 220px;
+}
+
+#header {
+  border: 10px outset peru;
+  border-radius: 12px;
+}
+
+/* CLASS SECTION */
+.Qualifications-Section {
+  background-color: lightgrey;
+  color: rgb(39, 39, 39);
+  outline: 10px solid lightgrey;
+  border-radius: 10px;
+  font-family: sans-serif;
+}
+
+.Experience-Section {
+  background-color: silver;
+  color:midnightblue;
+  outline: 10px solid silver;
+  border-radius: 10px;
+  font-family: sans-serif;
+}
+
+.Skills-Section {
+  background-color: lightslategrey;
+  color: rgb(32, 54, 54);
+  outline: 10px solid lightslategrey;
+  border-radius: 10px;
+  font-family: sans-serif;
+}
+
+.Menu {
+  background-color:darkolivegreen;
+  width: 150px;
+  height: 150px;
+  color: aliceblue;
+  outline: 10px solid darkolivegreen;
+  border-radius: 10px;
+}
