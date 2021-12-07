@@ -21,7 +21,7 @@ footer {
   text-align: center;
   color: mediumvioletred;
   outline: 10px solid gainsboro;
-  border-radius: 10px;
+  border-radius: 12px;
 }
 
 /* ID SECTION */
@@ -41,7 +41,7 @@ footer {
   background-color: lightgrey;
   color: rgb(39, 39, 39);
   outline: 10px solid lightgrey;
-  border-radius: 10px;
+  border-radius: 12px;
   font-family: sans-serif;
 }
 
@@ -49,7 +49,7 @@ footer {
   background-color: silver;
   color:midnightblue;
   outline: 10px solid silver;
-  border-radius: 10px;
+  border-radius: 12px;
   font-family: sans-serif;
 }
 
@@ -57,7 +57,7 @@ footer {
   background-color: lightslategrey;
   color: rgb(32, 54, 54);
   outline: 10px solid lightslategrey;
-  border-radius: 10px;
+  border-radius: 12px;
   font-family: sans-serif;
 }
 
@@ -67,5 +67,5 @@ footer {
   height: 150px;
   color: aliceblue;
   outline: 10px solid darkolivegreen;
-  border-radius: 10px;
+  border-radius: 12px;
 }
