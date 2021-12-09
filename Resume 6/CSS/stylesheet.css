@@ -1,0 +1,134 @@
+
+/* ELEMENTS SECTION */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:140%;
+  background-color: dimgray;
+  padding: 10px;
+  border: 10px outset peru;
+  border-radius: 12px;
+  margin: 5px;
+  color: aliceblue;
+}
+
+header {
+  text-align: center;
+  background-color: darkslategray;
+  color: honeydew;
+  font-family: 'Trebuchet MS';
+}
+
+footer {
+  background-color: gainsboro;
+  text-align: center;
+  color: aliceblue;
+
+}
+
+/* ID SECTION */
+
+#Headshot {
+  width: 170px;
+  height: 170px;
+  padding: 8px;
+  border: 10px inset peru;
+  border-radius: 50%;
+  margin: 10px;
+  object-fit: cover;
+  object-position: 0px 0.1px;
+}
+
+#header {
+  padding: 10px;
+  border: 0px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+  margin: 0px;
+  position: static;
+}
+
+#Menu {
+  font-size: 150%;
+}
+
+
+
+/* CLASS SECTION */
+.SidebarLink {
+  line-height: 200%;
+}
+
+.NavMenu {
+  display: flex;
+  height: 100%;
+}
+
+.Sidebar {
+  background-color: rgb(72, 90, 49);
+  width: 130px;
+  color: aliceblue;
+  padding: 10px;
+  border: 0px;
+  margin: 0px;
+  list-style-type: none;
+  font-family: 'Trebuchet MS';
+  position: static;
+}
+
+.main {
+  display: flex;
+}
+
+  .Qualifications-Section {
+  background-color: lightgrey;
+  color: rgb(39, 39, 39);
+  padding: 10px;
+  border: 5px outset lightslategrey;
+  border-radius: 12px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-top: 5px;
+  font-family: sans-serif;
+  position: static;
+}
+
+.Experience-Section {
+  background-color: silver;
+  color:midnightblue;
+  padding: 10px;
+  border: 5px outset lightslategrey;
+  border-radius: 12px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  font-family: sans-serif;
+  position: static;
+}
+
+.Skills-Section {
+  background-color: lightsteelblue;
+  color: rgb(32, 54, 54);
+  padding: 10px;;
+  border: 5px outset lightslategrey;
+  border-radius: 12px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  font-family: sans-serif;
+  position: static;
+}
+
+.Icons {
+  margin: 2%;
+}
+
+.footer {
+  background-color: darkslategray;
+  padding: 10px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  border-top-right-radius: 12px;
+  margin: 0px;
+  font-family: serif;
+  position: static;
+}
+
