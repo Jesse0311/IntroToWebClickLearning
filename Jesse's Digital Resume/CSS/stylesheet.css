@@ -47,6 +47,7 @@ footer {
 }
 
 #Profile {
+  font-size: 105%;
   text-align: left;
   padding-left: 80px;
   width: 70%;
@@ -131,6 +132,18 @@ footer {
 }
 
 .Skills-Section {
+  background-color: aliceblue;
+  color: black;
+  padding: 10px;;
+  border: 5px outset lightslategrey;
+  border-radius: 12px;
+  margin-bottom: 0px;
+  margin-left: 5px;
+  font-family: sans-serif;
+  position: static;
+}
+
+.Interests-Section {
   background-color: aliceblue;
   color: black;
   padding: 10px;;
