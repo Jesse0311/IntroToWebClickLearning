@@ -50,19 +50,19 @@ footer {
   font-size: 105%;
   text-align: left;
   padding-left: 80px;
-  width: 70%;
+  width: 150%;
   color: pink;
 }
 
 #DescriptionOfMe {
   display: flex;
-  width: auto;
-  padding-top: 12px;
+  padding-top: 15px;
   padding-left: 10px;
+  position: static;
 }
 
 #Name {
-  font-size: 155%;
+  font-size: 150%;
   color: aliceblue;
 }
 
@@ -70,6 +70,8 @@ footer {
   text-align: left;
   width: 100%;
   position: static;
+  line-height: 155%;
+  padding-top: 15px;
 }
 
 #Menu {
@@ -149,7 +151,7 @@ footer {
   padding: 10px;;
   border: 5px outset lightslategrey;
   border-radius: 12px;
-  margin-bottom: 0px;
+  margin-top: 5px;
   margin-left: 5px;
   font-family: sans-serif;
   position: static;
